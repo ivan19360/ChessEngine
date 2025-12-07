@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "5I9UM+20j1k=",
+  "dgSpecHash": "sGTmRfF9C6U=",
   "success": true,
-  "projectFilePath": "C:\\Users\\puhov\\Desktop\\C#\\ChessGame\\ChessGame\\ChessGame.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\ivanb\\Documents\\Programering\\ChessEngine\\ChessGame\\ChessGame\\ChessGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ivanb\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.22\\microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\ivanb\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.22\\microsoft.windowsdesktop.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\ivanb\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.22\\microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\ivanb\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.22\\microsoft.netcore.app.host.win-x64.8.0.22.nupkg.sha512"
+  ],
   "logs": []
 }
